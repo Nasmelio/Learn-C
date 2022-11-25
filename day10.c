@@ -147,7 +147,7 @@ int main()
 		}
 		else if (input == 0)
 		{
-			printf("See you next time!\n");
+			printf("See you next time!\n"); 
 		}
 		else
 		{
